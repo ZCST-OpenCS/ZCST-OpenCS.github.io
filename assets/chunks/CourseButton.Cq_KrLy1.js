@@ -1,0 +1,1 @@
+import{_ as e,o,c as r,t as s}from"./framework.YPpNXepj.js";const a=["href"],c={__name:"CourseButton",props:{text:String,url:String},setup(t){return(n,u)=>(o(),r("a",{href:t.url,class:"course-button"},s(t.text),9,a))}},i=e(c,[["__scopeId","data-v-20179a52"]]);export{i as C};
